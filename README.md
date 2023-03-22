@@ -15,7 +15,7 @@
 ![Profile views](https://gpvc.arturio.dev/Ritikkumar0)
 - 💎 I’m currently Aspiring `Technical Support Engineering`
 
-- 💬 Ask me about `Database, OS, Linux, DSA, JS, HTML, CSS.`
+- 💬 Ask me about `HTML | CSS | JAVASCRIPT | LINUX | OS | SQL`
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1gHnTG9ulbs50UYMcPWRwuqcooPtS1h_7/view?usp=share_link">Ritikkumar0's Resume</a>
 
@@ -38,17 +38,16 @@
 
  ### 👨‍💻 Technical Skill's
 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></a></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></a></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"></a></code>
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4870/4870906.png"></a></code>
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3344/3344227.png"></a></code>
+
 
 </br>
-
+<!-- 
 ### 🧰 Customer Service Skill's
 
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
@@ -67,7 +66,7 @@
 
 
 </br>
-
+ -->
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
