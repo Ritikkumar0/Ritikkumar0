@@ -47,26 +47,26 @@
 
 
 </br>
-<!-- 
+
 ### 🧰 Customer Service Skill's
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4233/4233839.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2964/2964025.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1701/1701750.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/10078/10078651.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6746/6746903.png"></code>
 </br>
 
 ### 🗄️ Soft Skill's
 
 
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2382/2382564.png"></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4727/4727320.png"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/860/860430.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4133/4133589.png"></code>
 
 
 </br>
- -->
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
