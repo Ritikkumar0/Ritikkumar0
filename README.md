@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikkumar0" alt="ritikkumar0" /></a> </p>
 
-- Project 1 [Freshwork](https://gilded-axolotl-e573a7.netlify.app/)
-
 - 🌱 I’m currently learning **Linux, Shell Scripting, SQL.**
-
-- Project 2 [Airtable](https://airtables.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://ritikkumar0.github.io/](https://ritikkumar0.github.io/)
 
