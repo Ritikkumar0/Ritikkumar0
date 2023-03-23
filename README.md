@@ -38,12 +38,32 @@
 
  ### 👨‍💻 Technical Skill's
 
-<div><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"><b>HTML</b></div>
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></a></code>
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/518/518713.png"></a></code> 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></a></code>
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"></a></code>
+<div style="display: flex;">
+    <div style="text-align: center;">
+        <img width="40%" src="https://cdn-icons-png.flaticon.com/128/174/174854.png">
+        <h2>HTML</h2>
+    </div>
+    <div style="text-align: center;">
+        <img width="40%" src="https://cdn-icons-png.flaticon.com/128/732/732190.png">
+        <h2>CSS</h2>
+    </div>
+    <div style="text-align: center;">
+        <img width="35%" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png">
+        <h2>JAVASCRIPT</h2>
+    </div>
+    <div style="text-align: center;">
+        <img width="38%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png">
+        <h2>LINUX</h2>
+    </div>
+    <div style="text-align: center;">
+        <img width="20%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png">
+        <h2>OPERATING SYSTEM</h2>
+    </div>
+    <div style="text-align: center;">
+        <img width="36%" src="https://cdn-icons-png.flaticon.com/128/8452/8452873.png">
+        <h2>SQL</h2>
+    </div>
+</div>
 
 
 </br>
