@@ -52,11 +52,13 @@
 
 ### 🧰 Customer Service Skill's
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4233/4233839.png"></code>
+<!-- <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4233/4233839.png"></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2964/2964025.png"></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/1701/1701750.png"></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/10078/10078651.png"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6746/6746903.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6746/6746903.png"></code> -->
+
+![Technical support](https://img.shields.io/badge/Technical%20support-blue) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=Linux5&logoColor=white) ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </br>
 
 ### 🗄️ Soft Skill's
