@@ -49,7 +49,7 @@
 ### 🗄️ Soft Skill's
 
 
-![TIME MANAGEMENT](https://img.shields.io/badge/Time%20Management%20-blue?style=for-the-badge&logo=TimeManagement&logoColor=white) ![COMMUNICATION](https://img.shields.io/badge/COMMUNICATION-blue?style=for-the-badge&logo=Communication&logoColor=white) ![LEADERSHIP](https://img.shields.io/badge/LEADERSHIP%20-blue?style=for-the-badge&logo=Leadership&logoColor=white) ![PROBLEM SOLVING](https://img.shields.io/badge/PROBLEM%20SOLVING%20-blue?style=for-the-badge&logo=ProblemSolving&logoColor=white) ![CRITICAL THINKING](https://img.shields.io/badge/Critical%20Thinking%20-blue?style=for-the-badge&logo=CriticalThinking&logoColor=white)
+![TIME MANAGEMENT](https://img.shields.io/badge/Time%20Management%20-F7DB6A?style=for-the-badge&logo=TimeManagement&logoColor=white) ![COMMUNICATION](https://img.shields.io/badge/COMMUNICATION-7AA874?style=for-the-badge&logo=Communication&logoColor=white) ![LEADERSHIP](https://img.shields.io/badge/LEADERSHIP%20-D864A9?style=for-the-badge&logo=Leadership&logoColor=white) ![PROBLEM SOLVING](https://img.shields.io/badge/PROBLEM%20SOLVING%20-9A208C?style=for-the-badge&logo=ProblemSolving&logoColor=white) ![CRITICAL THINKING](https://img.shields.io/badge/Critical%20Thinking%20-F5C6EC?style=for-the-badge&logo=CriticalThinking&logoColor=white)
 
 
 </br>
