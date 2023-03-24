@@ -39,13 +39,11 @@
  ### 👨‍💻 Technical Skill's
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=Linux5&logoColor=white) ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 </br>
 
 ### 🧰 Customer Service Skill's
 
-
-![TECHNICAL SUPPORT](https://img.shields.io/badge/Technical%20support%20-blue?style=for-the-badge&logo=technicalsupport&logoColor=white) ![EFFECTIVE LISTENING](https://img.shields.io/badge/EFFECTIVE%20LISTENING%20-blue?style=for-the-badge&logo=EFFECTIVELISTENING&logoColor=white) ![TROUBLESHOOT](https://img.shields.io/badge/TROUBLESHOOT%20-blue?style=for-the-badge&logo=Troubleshoot&logoColor=white) ![ADAPTABILITY](https://img.shields.io/badge/ADAPTABILITY%20-blue?style=for-the-badge&logo=Adaptability&logoColor=white) ![CRITICAL THINKING](https://img.shields.io/badge/Critical%20Thinking%20-blue?style=for-the-badge&logo=CriticalThinking&logoColor=white)
+![TECHNICAL SUPPORT](https://img.shields.io/badge/Technical%20support%20-blue?style=for-the-badge&logo=technicalsupport&logoColor=white) ![EFFECTIVE LISTENING](https://img.shields.io/badge/EFFECTIVE%20LISTENING%20-green?style=for-the-badge&logo=EFFECTIVELISTENING&logoColor=white) ![TROUBLESHOOT](https://img.shields.io/badge/TROUBLESHOOT%20-grey?style=for-the-badge&logo=Troubleshoot&logoColor=white) ![ADAPTABILITY](https://img.shields.io/badge/ADAPTABILITY%20-yellow?style=for-the-badge&logo=Adaptability&logoColor=white)
 </br>
 
 ### 🗄️ Soft Skill's
