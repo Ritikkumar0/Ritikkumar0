@@ -45,7 +45,7 @@
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></a></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></a></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/8452/8452873.png"></a></code> -->
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=Linux5&logoColor=white) ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=Linux5&logoColor=white) ![Operating System](https://img.shields.io/badge/-operating%20system%20-lightgrey?style=for-the-badge&logo=OperatingSystemDB5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 </br>
